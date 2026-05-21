@@ -25,6 +25,6 @@ input fields (text fields) for the edit or delete process.
 the duration of stay.
 - The total cost must not be entered manually. The daycare cost calculation in
 CattyCare is determined based on the duration of stay :
-    ➢ If the duration of stay is less than or equal to 2 days, the cost is Rp40,000 per day.
-    ➢ If the duration of stay is more than 2 days, the first 2 days are still charged
+➢ If the duration of stay is less than or equal to 2 days, the cost is Rp40,000 per day.
+➢ If the duration of stay is more than 2 days, the first 2 days are still charged
       Rp40,000 per day, while the following days are charged Rp30,000 per day.
