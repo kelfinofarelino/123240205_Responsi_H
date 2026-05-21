@@ -7,6 +7,9 @@
 **PLUG H**
 
 ***
+CattyCare is a growing home-based cat daycare service. The owner wants to have a
+desktop application to manage cat daycare data more efficiently. The application will store
+daycare information and automatically calculate the total cost based on the duration of stay.
 
 Main Features of the Software :
 1. Cat Daycare Data Management
